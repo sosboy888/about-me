@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **swastiksharma88@gmail.com**
 
-- ⚡ Fun fact **I have been programming and building robots since I was 11 years old!**
+- ⚡ Fun fact! **I have been programming and building robots since I was 11 years old!**
 
 
 <h3 align="left">Languages and Tools:</h3>
