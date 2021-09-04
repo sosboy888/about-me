@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything! **If I don't know a certain topic, I'll make sure that I connect you with someone who is good at it!**
 
-- 📫 How to reach me **swastiksharma88@gmail.com**
+- 📫 How to reach me: **swastiksharma88@gmail.com**
 
 - ⚡ Fun fact **I have been programming and building robots since I was 11 years old!**
 
