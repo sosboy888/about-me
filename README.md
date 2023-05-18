@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Swastik Sharma</h1>
-<h3 align="center">Managing director at EdVerb, Java Development Specialist at Sunbase.</h3>
+<h3 align="center">Managing director at EdVerb, Senior Developer at Sunbase.</h3>
 
 - 🌱 Interested in **Research and development based on topics related to LIDAR 3D reconstruction and Computer vision!**
 
